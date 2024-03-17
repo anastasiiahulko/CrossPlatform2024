@@ -89,5 +89,6 @@ nb-configuration.xml
 ##############################
 *.log
 
+
 # add this file
 .gitignore
